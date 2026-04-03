@@ -15,9 +15,18 @@ I'm a passionate **Backend Developer** and Computer Engineering student with a h
 * **SafeRoute:** Secure navigation application architecture designed for a hackathon.
 
 ### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=samruddhi-t12&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhi-t12&layout=compact&theme=radium)
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=samruddhi-t12&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhi-t12&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+</div>
 
 ### 📫 Let's Connect
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samruddhi-thorat-90b103286)
-* **Email:** [samruddhithorat1356@gmail.com](mailto:samruddhithorat1356@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/samruddhi-thorat-90b103286" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:samruddhithorat1356@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
